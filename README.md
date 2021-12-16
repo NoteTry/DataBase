@@ -7,3 +7,6 @@
 * SELECT * FROM
 * DELETE FROM
 * UPDATE
+
+В файле App.config нужно поменять путь до базы данных.
+Пример - https://www.youtube.com/watch?v=XFnrlvEX6zM
